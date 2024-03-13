@@ -1,5 +1,6 @@
 # favorite food
 
 apple
-lemon
-nudlle
+banana
+chocolate
+
